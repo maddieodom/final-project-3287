@@ -1,4 +1,5 @@
-# CSPB 3287 Final Project - NFT Database Management System
+# CSPB 3287 Final Project 
+# NFT Database Management System
 
 #### The project includes a Jupyter Notebook (writeup and query code), source files, and e/r diagrams.
 

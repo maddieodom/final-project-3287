@@ -6,9 +6,9 @@
 
 ### Included in the notebook:
 
-- E/R Diagram
+- E/R Diagram (see repo for erdiagram.png)
 - Writeup
 - Table Creation
 - Queries
 - Database Information
-- Link to Youtube Presentation
+- Link to Youtube Presentation (https://youtu.be/JvWqmJ-S9go)
